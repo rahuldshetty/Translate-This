@@ -13,6 +13,6 @@ There are two javascript files which are used for converting the text.
 
 # Screenshots
 
-
+![1](https://raw.githubusercontent.com/rahuldshetty/Translate-This/main/screenshots/1.png)
 
 
